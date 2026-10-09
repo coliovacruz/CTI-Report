@@ -10,7 +10,7 @@ Relatório analítico de **Cyber Threat Intelligence** produzido como exercício
 
 - **Relatório:** nº 001/2024 — Grupo 6, ACADI-TI
 - **Data:** 05/05/2024
-- **Autor:** Marco Aurelio da Silva da Cruz (e equipe do Grupo 6)
+- **Autor:** Marco Aurelio Cruz (e equipe do Grupo 6)
 
 ## Requisitos de inteligência
 
